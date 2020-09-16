@@ -1,0 +1,2 @@
+# sprincloud-config
+springcloud中config配置所需要的一个demo
